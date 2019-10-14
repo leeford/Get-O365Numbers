@@ -1,4 +1,4 @@
-# GetO365Numbers
+# Get-O365Numbers
 
 List all numbers assigned to Office 365 Users and Resource Accounts (used for Voice Apps)
 
